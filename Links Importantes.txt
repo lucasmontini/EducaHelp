@@ -1,0 +1,9 @@
+*/Aqui colocaremos links que podem ajudar todos com o desenvolvimento/*
+
+https://software.intel.com/pt-br - É aqui que vocês logan com a conta de vocês do Intel XDK. É bom também aprenderem aonde tem os fóruns lá tem muita coisa para ajudar.
+https://msdn.microsoft.com/pt-br/magazine/dn683800.aspx
+http://www.devmedia.com.br/como-criar-aplicativos-mobile-hibridos-e-offline/32361
+https://www.sitepoint.com/coding-first-cross-platform-app-intel-xdk/
+http://www.w3schools.com/howto/howto_js_accordion.asp
+https://support.zendesk.com/hc/pt-br/community/posts/207540007-Make-Apps-Collapsable
+
